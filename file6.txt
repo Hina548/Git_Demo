@@ -2,8 +2,7 @@
 Changes in main for Rebase Practice
 
 New Changes for Rebase part 1
-<<<<<<< HEAD
 
-=======
+
 New Changes for Rebase part 2
->>>>>>> 66485ff (New Changes for Rebase part 2)
+
