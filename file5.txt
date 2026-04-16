@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Main Branch Updated
-=======
 Feature Line 1
->>>>>>> 30ff381 (Add Feature in line 1)
+Feature Line 2
+
